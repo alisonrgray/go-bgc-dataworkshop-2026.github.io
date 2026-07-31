@@ -13,7 +13,7 @@ banner:
   - url: intro.html
     title: Event Jupyter Book
     new_window: false
-  image: https://geohackweek.github.io/assets/images/banner.jpg
+  image: https://go-bgc-dataworkshop-2026.github.io/assets/images/banner.jpg
 # The opening session of the event with UTC offset
 event_countdown: "2026-08-17T08:30:00-07:00"
 about:
@@ -22,8 +22,8 @@ about:
     gain hands-on experience with collaboration and team science
   learn_more: https://escience.washington.edu/using-data-science/hackweeks
   links:
-    - url: '#'
-      title: A sample link
+    - url: 'https://www.go-bgc.org/'
+      title: GO-BGC
       new_window: True
 applicant_info: Applications have now closed.
 team:
