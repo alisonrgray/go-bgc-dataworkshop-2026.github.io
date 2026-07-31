@@ -1,5 +1,5 @@
 ﻿- title: Alison Gray
-  avatar: A URL with your picture
+  avatar: https://www.go-bgc.org/wp-content/uploads/2020/11/Gray.jpg
   role: Associate Professor
   organizations:
     - name: University of Washington
@@ -9,6 +9,6 @@
     - BGC-Argo floats
   social:
     - icon: github
-      link: Link to your GitHub profile
+      link: https://github.com/alisonrgray
   user_groups:
     - Workshop Organizer, Tutorial Lead
