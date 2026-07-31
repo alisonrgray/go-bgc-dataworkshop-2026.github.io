@@ -34,8 +34,9 @@ sponsors:
   description: ''
   organizations:
   - name: GO-BGC
-    website: ''
-    logo_url: https://escience.washington.edu/wp-content/uploads/2015/10/Logo_eScience-stacked.png
+    website: 'https://www.go-bgc.org/'
+    logo_url: https://www.go-bgc.org/wp-content/uploads/2020/12/gobgc-logo-2-sm.png
+#    logo_url: https://escience.washington.edu/wp-content/uploads/2015/10/Logo_eScience-stacked.png
 footer:
   social:
   - icon: github
