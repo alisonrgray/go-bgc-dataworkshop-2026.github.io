@@ -13,8 +13,8 @@ parse:
     hackweek: "go-bgc-dataworkshop"
     dates: "August 17 to 21, 2026"
     github_org_url: "https://github.com/go-bgc"
-    book_repo: "jupyterbook-template"
-    website_url: "https://book-template.hackweek.io"
+    book_repo: "go-bgc-dataworkshop-2026"
+    website_url: "https://go-bgc-dataworkshop-2026.github.io"
     jupyterhub_url: "https://INSERT_JUPYTERHUB_URL"
     slack_workspace_url: "https://INSERT_SLACK_URL"
     contact_email: "argray@uw.com"
@@ -53,7 +53,7 @@ launch_buttons:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/go-bgc/go-bgc-dataworkshop-2026 # Online location of your book
+  url: https://github.com/go-bgc/go-bgc-dataworkshop-2026.github.io # Online location of your book
   path_to_book: book  # Optional path to your book, relative to the repository root
   branch: main  # Which branch of the repository should be used when creating links (optional)
 
