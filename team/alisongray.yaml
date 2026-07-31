@@ -1,0 +1,14 @@
+﻿- title: Alison Gray
+  avatar: A URL with your picture
+  role: Associate Professor
+  organizations:
+    - name: University of Washington
+  bio: GO-BGC team member.
+  expertise:
+    - Data analysis
+    - BGC-Argo floats
+  social:
+    - icon: github
+      link: Link to your GitHub profile
+  user_groups:
+    - Workshop Organizer, Tutorial Lead
