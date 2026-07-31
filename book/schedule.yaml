@@ -1,26 +1,26 @@
 timezone: UTC -7 (Pacific Daylight Time)
 tabs:
 - title: Day 1
-  date: Monday 07 August
+  date: Monday 17 August
   contents:
   - title: Introductory Session
-    description: Welcome and getting to know each other.
+    description: Welcome, Introductions, and Updates on GO-BGC and BGC-Argo.
     time: 8:30 - 9:30
     leads:
-    - Anthony Arendt
-  - title: CryoCloud
-    description: Getting connected to our shared computational resources.
-    time: 9:00 - 10:00
+    - Alison Gray, Yui Takashita, Roo Nicholson
+  - title: Data QC
+    description: Data 
+    time: 9:30 - 10:15
     leads:
-    - Tasha Snow
+    - Logan, Nicola
   - title: BREAK
     description: null
-    time: 10:00 - 10:30
-  - title: Best Practices for Collaborative Development
-    description: null
-    time: 10:30 - 11:00
+    time: 10:45 - 11:15
+  - title: working Together
+    description: Getting connected to our shared computational resources.
+    time: 11:15 - 12:00
     leads:
-    - Naomi Alterman
+    - ?
   - title: ICESat-2 Mission Overview and Data
     description: Summary of ICESat-2 datasets, algorithms and science applications.
     time: 11:00 - 12:00
@@ -28,12 +28,15 @@ tabs:
     - Ben Smith
   - title: LUNCH
     description: null
-    time: 12:00 - 13:00
-  - title: OPEN PROJECT WORK
+    time: 12:00 - 13:30
+  - title: Team Formation
     description: null
-    time: 13:00 - 17:00
+    time: 13:00 - 14:30
+  - title: Data Exploration and Analysis
+    description: null
+    time: 14:30 - 16:00  
 - title: Day 2
-  date: Tuesday 08 August
+  date: Tuesday 18 August
   contents:
   - title: Cloud data access and data formats
     description: Approaches for accessing and subsetting ICESat-2 data in a cloud
@@ -121,7 +124,7 @@ tabs:
     description: null
     time: 13:00 - 17:00
 - title: Day 5
-  date: Friday 11 August
+  date: Friday 21 August
   contents:
   - title: Openscapes Mentor Breakfast
     description: Exploring mentor training opportunities in collaboration with NASA
