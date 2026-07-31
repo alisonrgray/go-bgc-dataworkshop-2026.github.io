@@ -8,127 +8,100 @@ tabs:
     time: 8:30 - 9:30
     leads:
     - Alison Gray, Yui Takashita, Roo Nicholson
-  - title: Data QC
-    description: Data 
+  - title: BGC-Argo Data
+    description: Data QC and processing
     time: 9:30 - 10:15
     leads:
     - Logan, Nicola
   - title: BREAK
     description: null
     time: 10:45 - 11:15
-  - title: working Together
+  - title: Working Together
     description: Getting connected to our shared computational resources.
     time: 11:15 - 12:00
     leads:
     - ?
-  - title: ICESat-2 Mission Overview and Data
-    description: Summary of ICESat-2 datasets, algorithms and science applications.
-    time: 11:00 - 12:00
-    leads:
-    - Ben Smith
   - title: LUNCH
     description: null
     time: 12:00 - 13:30
   - title: Team Formation
     description: null
     time: 13:00 - 14:30
-  - title: Data Exploration and Analysis
+  - title: OPEN PROJECT WORK
     description: null
     time: 14:30 - 16:00  
 - title: Day 2
   date: Tuesday 18 August
   contents:
-  - title: Cloud data access and data formats
-    description: Approaches for accessing and subsetting ICESat-2 data in a cloud
-      environment.
-    time: 8:30 - 10:00
+  - title: Machine Learning and BGC-Argo Data
+    description: GOBAI-O2
+    time: 9:00 - 10:15
     leads:
-    - Amy Steiker
+    - Jon Sharp
   - title: BREAK
     description: null
-    time: 10:00 - 10:30
-  - title: Open source development / Object Oriented Programming
-    description: Best practices for collaborative coding and object oriented programming.
-    time: 10:30 - 11:30
+    time: 10:15 - 10:45
+  - title: Machine Learning Tutorial
+    description: null
+    time: 10:45 - 12:00
     leads:
-    - Romina Piunno
-  - title: Group STAND-UP
-    description: Demonstration of a daily stand-up as part of your project collaboration.
-    time: 11:30 - 12:00
-    leads:
-    - Anthony Arendt
+    - Alison Gray, Song Sangmin
   - title: LUNCH
     description: null
-    time: 12:00 - 13:00
+    time: 12:00 - 13:30
   - title: OPEN PROJECT WORK
     description: null
-    time: 13:00 - 17:00
+    time: 13:30 - 17:00
 - title: Day 3
-  date: Wednesday 09 August
+  date: Wednesday 19 August
   contents:
-  - title: 'Applications: atmosphere'
-    description: Applications of ICESat-2 data to atmospheric sciences.
-    time: 8:30 - 9:15
+  - title: Remote Sensing and BGC-Argo Data
+    description: null
+    time: 9:00 - 9:45
     leads:
-    - Zheng Liu
-  - title: 'Applications: bathymetry'
-    description: Applications of ICESat-2 data to bathymetric sciences.
-    time: 9:30 - 10:15
-    leads:
-    - Jonathan Markel
+    - Charlotte
   - title: BREAK
     description: null
-    time: 10:00 - 10:30
-  - title: 'Applications: Land Ice'
-    description: Applications of ICESat-2 data to studies of land ice.
-    time: 10:30 - 11:15
+    time: 10:15 - 10:45
+  - title: Remote Sensing Tutorial
+    description: null
+    time: 10:45 - 12:00
     leads:
-    - Tian LI
+    - Ellen Park
   - title: Group STAND-UP & OPEN PROJECT WORK
     description: null
     time: 11:15 - 12:00
   - title: LUNCH
     description: null
-    time: 12:00 - 13:00
+    time: 12:00 - 13:30
   - title: OPEN PROJECT WORK
     description: null
-    time: 13:00 - 17:00
+    time: 13:30 - 17:00
 - title: Day 4
-  date: Thursday 10 August
+  date: Thursday 20 August
   contents:
-  - title: 'Applications: inland hydrology'
-    description: Applications of ICESat-2 data to inland hydrology.
-    time: 8:30 - 9:15
+  - title: CloudBank
+    description: null
+    time: 9:00 - 9:30
     leads:
-    - Shamsudeen Yekeen
-  - title: 'Applications: sea ice'
-    description: Applications of ICESat-2 data to sea ice.
-    time: 9:30 - 10:15
-    leads:
-    - Younghyun Koo
+    - Scott Henderson  
   - title: BREAK
     description: null
-    time: 10:00 - 10:30
-  - title: 'Applications: snow depth'
-    description: Applications of ICESat-2 data to snow studies.
-    time: 10:30 - 11:15
-    leads:
-    - Karina Zikan
-  - title: Group STAND-UP & OPEN PROJECT WORK
-    description: null
-    time: 11:15 - 12:00
-  - title: LUNCH
-    description: null
-    time: 12:00 - 13:00
+    time: 10:15 - 10:45
   - title: OPEN PROJECT WORK
     description: null
-    time: 13:00 - 17:00
+    time: 10:45 - 12:00
+  - title: LUNCH
+    description: null
+    time: 12:00 - 13:30
+  - title: OPEN PROJECT WORK
+    description: null
+    time: 13:30 - 17:00
 - title: Day 5
   date: Friday 21 August
   contents:
-  - title: Openscapes Mentor Breakfast
-    description: Exploring mentor training opportunities in collaboration with NASA
-      Openscapes Champions program.
-    time: 8:30 - 9:30
+  - title: Team Presentations
+    description: null
+    time: 8:30 - 12:30
     leads:
     - ''
