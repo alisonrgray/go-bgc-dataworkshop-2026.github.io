@@ -25,7 +25,7 @@ about:
    # - url: 'https://www.go-bgc.org/'
     #  title: GO-BGC
      # new_window: True
-#applicant_info: Applications have now closed.
+applicant_info: Applications have now closed.
 team:
   !include team/team.yaml
 schedule:
