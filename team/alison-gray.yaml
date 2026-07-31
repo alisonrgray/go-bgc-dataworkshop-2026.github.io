@@ -1,0 +1,16 @@
+- title: Alison Gray
+  avatar: https://www.go-bgc.org/wp-content/uploads/2020/11/Gray.jpg
+  role: Associate Professor
+  organizations:
+    - name: School of Oceanography
+    - name: University of Washington
+  bio: GO-BGC team member.
+  expertise:
+    - Data analysis
+    - BGC-Argo floats
+  social:
+    - icon: github
+      link: https://github.com/alisonrgray
+  user_groups:
+    - Workshop Organizer
+    - Tutorial Lead
