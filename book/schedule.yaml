@@ -8,14 +8,14 @@ tabs:
     time: 8:30 - 9:30
     leads:
     - Alison Gray
-    - Yui Takashita
-    - Roo Nicholson
+    #- Yui Takashita
+    #- Roo Nicholson
   - title: BGC-Argo Data
     description: Data QC and processing
     time: 9:30 - 10:15
     leads:
     - Logan Grady
-    - Nicola Guisewaite
+    #- Nicola Guisewaite
   - title: BREAK
     description: null
     time: 10:45 - 11:15
