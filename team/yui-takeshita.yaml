@@ -10,11 +10,11 @@
     - skill 2
   social:
     - icon: github
-      #link: Link to your GitHub profile
-    - icon: twitter
+      link: https://github.com/yui-takeshita
+    #- icon: twitter
       #link: Link to your Twitter profile
-    - icon: linkedin
+    #- icon: linkedin
       #link: Link to your LinkedIn profile
   user_groups:
     - Workshop Organizer
-    #The role in the hackweek. Examples: Tutorial Lead, Project Helper
+    #The role in the hackweek. Examples: Tutorial Lead, Project Helpe
