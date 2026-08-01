@@ -7,20 +7,22 @@ tabs:
     description: Welcome, Introductions, and Updates on GO-BGC and BGC-Argo.
     time: 8:30 - 9:30
     leads:
-    - Alison Gray, Yui Takashita, Roo Nicholson
+    - Alison Gray
+    - Yui Takashita
+    - Roo Nicholson
   - title: BGC-Argo Data
     description: Data QC and processing
     time: 9:30 - 10:15
     leads:
-    - Logan, Nicola
+    - Logan Grady
+    - Nicola Guisewaite
   - title: BREAK
     description: null
     time: 10:45 - 11:15
   - title: Working Together
     description: Getting connected to our shared computational resources.
     time: 11:15 - 12:00
-    leads:
-    - ?
+    leads: null
   - title: LUNCH
     description: null
     time: 12:00 - 13:30
