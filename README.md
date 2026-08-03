@@ -1,45 +1,11 @@
-# Hackweek Website Template
+# 2026 GO-BGC Data and Science Workshop Website and JupyterBook
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-**THIS IS A [TEMPLATE REPOSITORY](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template )** designed to streamline creating two linked websites for a [UW eScience Hackweek](https://uwhackweek.github.io/hackweeks-as-a-service/intro.html):
-
-1. An event landing page built on a [Tech Conference Theme](https://themes.3rdwavemedia.com/demo/bs5/devconf/)
-1. A [JupyterBook](https://jupyterbook.org/) for event content (including tutorials)
-
-We've found that every hackweek benefits from a single-page website to get people's attention and consolidate important logistical details such as the 'who','what','why','when' of an event. In addition, JupyterBook provides a convenient means to consolidate and present tutorials with dynamic content such as executable code and dynamic figures.
-
-## Examples
-
-We've used this template for the following events:
-
-* ICESat-2 Hackweek 2022 + 2023: https://icesat-2.hackweek.io
-* SnowEx Hackweeks (2021, 2022): https://snowex.hackweek.io
-
-
-## How to use this template
-
-You can use this template for your own event!
-
-1. Click the "Use this template" button at the top of the repo
-1. Select the account where you'd like to use the template.
-1. In your new repo, got to Settings --> Pages --> Source = GitHub Actions
-  1. Enter a Custom Domain if you have one, or use the default GitHub Pages URL
-1. There are a few files you'll need to edit to customize content for your event:
-  * `cookiecutter.yaml`:  customize your landing page content
-  * `book/_config.yml`:  customize your JupyterBook content
-  * `README.md`:  a basic description of your project
+## To Do
   * `CITATION.cff`:  add a standard citation file with all the event organizers
-
-
-## Design
-
-We've designed this template so that you should only have to edit a few files with intuitive syntax. When changes are pushed to GitHub, [continuous integration](./.github/README.md) takes care of converting these files into HTML and publishing the website.
-
-
-### Additional options to consider
-[ReviewNB](https://www.reviewnb.com/) is a great tool for viewing changes in Jupyter Notebooks.
+  * [ReviewNB](https://www.reviewnb.com/) is a great tool for viewing changes in Jupyter Notebooks.
 Someone with admin privileges must activate it for each repository you create from this template.
 To activate:
 
@@ -53,14 +19,9 @@ To activate:
 Great! Now ReviewNB will post a rich-diff of your notebooks each time a PR is opened.
 
 
-## How to contribute
-
-We are always trying to improve upon this template for future events and welcome contributions. Have a look at our [code of conduct](./CODE_OF_CONDUCT.md) and [contributing guide](./CONTRIBUTING.md).
-
-
 ## Contributors ✨
 
-Thanks for this template goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+This site used a HackWeek template that was created by these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
