@@ -4,6 +4,7 @@ Hackweek tutorials are learning-oriented and guide participants through a step-w
 
 Below you'll find a table keeping track of all tutorials presented at this event:
 
-| Tutorial | Topics | Datasets |  Recording Link |
-| -  | - | - |  - |
-| [Machine Learning](./example/tutorial-notebook.ipynb) | Machine Learning | n/a |  Not recorded |
+| Tutorial | Topics | Datasets |
+| -  | - | - |  
+| [Machine Learning](./example/tutorial-notebook.ipynb) | Machine Learning | ? | 
+| [Remote Sensing](./example/tutorial-notebook.ipynb) | Remote Sensing | ? |
