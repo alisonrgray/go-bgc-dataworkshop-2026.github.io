@@ -6,4 +6,4 @@ Below you'll find a table keeping track of all tutorials presented at this event
 
 | Tutorial | Topics | Datasets |  Recording Link |
 | -  | - | - |  - |
-| [Example Notebook](./example/tutorial-notebook.ipynb) | Jupyter Book formatting, ipyleaflet | n/a |  Not recorded |
+| [Machine Learning](./example/tutorial-notebook.ipynb) | Machine Learning | n/a |  Not recorded |
