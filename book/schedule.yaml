@@ -1,5 +1,11 @@
 timezone: UTC -7 (Pacific Daylight Time)
 tabs:
+- title: Day 0
+  date: Sunday 16 August
+  contents: 
+  - title: Icebreaker
+    description: Meet workshop attendees for an informal gathering at XX (optional).
+    time: 19:00 - 20:30
 - title: Day 1
   date: Monday 17 August
   contents:
@@ -21,7 +27,7 @@ tabs:
     time: 10:15 - 10:45
   - title: BGC-Argo Data Examples
     description: null
-    time: 11:45 - 11:30
+    time: 10:45 - 11:30
     leads:
     - Logan Grady
     - Nicola Guisewaite
