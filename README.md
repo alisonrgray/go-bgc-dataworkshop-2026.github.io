@@ -6,6 +6,9 @@
 ## Resources
 If you are putting together a new tutorial for this event, refer to the [Hackweek Guidebook](https://guidebook.hackweek.io/training/tutorials/index.html).
 
+You can find a comprehensive guide for organizing projects before, during, and after a hackweek in our [Hackweek Guidebook](https://guidebook.hackweek.io/training/projects/index.html).
+
+
 ## To Do
   * `CITATION.cff`:  add a standard citation file with all the event organizers
   * [ReviewNB](https://www.reviewnb.com/) is a great tool for viewing changes in Jupyter Notebooks.
@@ -13,11 +16,11 @@ Someone with admin privileges must activate it for each repository you create fr
 To activate:
 
 1. Go to [reviewnb.com](https://www.reviewnb.com/).
-1. Select the "Connect to GitHub" button.
-1. Select "+/- REPOSITORIES" from the menu or bottom of the page.
-1. Choose the organization where your repo lives.
-1. Toggle the "Only select repositories" button and choose your repo from the dropdown.
-1. Select "Install".
+2. Select the "Connect to GitHub" button.
+3. Select "+/- REPOSITORIES" from the menu or bottom of the page.
+4. Choose the organization where your repo lives.
+5. Toggle the "Only select repositories" button and choose your repo from the dropdown.
+6. Select "Install".
 
 Great! Now ReviewNB will post a rich-diff of your notebooks each time a PR is opened.
 
