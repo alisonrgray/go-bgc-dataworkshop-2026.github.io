@@ -11,29 +11,39 @@ tabs:
     - David (Roo) Nicholson
     - Yui Takeshita
   - title: BGC-Argo Data
-    description: Data QC and processing
-    time: 9:30 - 10:15
+    description: Overview of data processing and quality control
+    time: 9:30 - 10:30
     leads:
     - Logan Grady
+    - Nicola Guisewaite
   - title: BREAK
     description: null
-    time: 10:45 - 11:15
-  - title: Working Together
-    description: Getting connected to our shared computational resources.
-    time: 11:15 - 12:00
-    leads: 
-    - Wing-Ho Ko
+    time: 10:30 - 11:00
+  - title: BGC-Argo Data Examples
+    description: null
+    time: 11:00 - 11:30
+    leads:
+    - Logan Grady
+    - Nicola Guisewaite
+  - title: Project Pitch Lightning Talks
+    description: null
+    time: 11:30 - 12:00
   - title: LUNCH
     description: null
     time: 12:00 - 13:30
   - title: Team Formation
     description: null
-    time: 13:00 - 14:30
+    time: 13:30 - 14:00
+  - title: Working Together
+    description: Overview of our shared computational resources
+    time: 14:00 - 14:30
+    leads: 
+    - Wing-Ho Ko
   - title: OPEN PROJECT WORK
     description: null
     time: 14:30 - 16:00
-  - title: RECEPTION and FLOAT LAB TOURS
-    description: null
+  - title: RECEPTION and FLOAT LAB TOUR
+    description: Enjoy some light refreshments, learn about RBR and Seabird products, tour the UW Float Lab, and chat with fellow attendees and participants in the MATE Float Tech workshop in the lobby of the [Ocean Sciences Building] (https://map.uw.edu/?id=2099#!m/973250?share).
     time: 16:00 - 18:00
 - title: Day 2
   date: Tuesday 18 August
@@ -59,7 +69,7 @@ tabs:
     description: null
     time: 13:30 - 17:00
   - title: Soccer
-    description: Optional
+    description: Come join a friendly game of soccer at the [UW Athletic Fields](https://map.uw.edu/?id=2099#!m/1049675?share) (optional).
     time: 19:00–20:30
 - title: Day 3
   date: Wednesday 19 August
