@@ -1,4 +1,4 @@
-- title: Your name goes here
+- title: Roberta Hotinski
   avatar: A URL with your picture
   role: Your title
   organizations:
@@ -8,12 +8,6 @@
   expertise:
     - skill 1
     - skill 2
-  social:
-    - icon: github
-      link: Link to your GitHub profile
-    - icon: twitter
-      link: Link to your Twitter profile
-    - icon: linkedin
-      link: Link to your LinkedIn profile
   user_groups:
-    - The role in the hackweek. Examples: Tutorial Lead, Project Helper
+    - Workshop Organizer
+    - Administrative Lead
