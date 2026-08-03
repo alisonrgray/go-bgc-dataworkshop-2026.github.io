@@ -13,7 +13,7 @@ banner:
   - url: intro.html
     title: Event Jupyter Book
     new_window: false
-  image: https://go-bgc-dataworkshop-2026.github.io/assets/images/banner.jpg
+  image: https://www.go-bgc.org/wp-content/uploads/2020/12/26206277861_1a8572630e_o_isa_rosso.jpg
 # The opening session of the event with UTC offset
 event_countdown: "2026-08-17T08:30:00-07:00"
 about:
