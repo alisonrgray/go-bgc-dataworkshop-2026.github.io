@@ -4,7 +4,7 @@ apply:
   url: '#'
   title: Applications have closed.
 banner:
-  description: A fun adventure in using BGC-Argo data.
+  description: A fun adventure in using BGC-Argo data
   start_date: 17 August
   end_date: 21 August
   year: 2026
@@ -17,9 +17,7 @@ banner:
 # The opening session of the event with UTC offset
 event_countdown: "2026-08-17T08:30:00-07:00"
 about:
-  description: Hackweeks are participant-driven events that strive to create
-    welcoming spaces for participants to learn new things, build community and
-    gain hands-on experience with collaboration and team science
+  description: This workshop will be organized as a HackWeek, where small groups will pursue a scientific objective using BGC-Argo data while learning new things and building community.  
   learn_more: https://escience.washington.edu/using-data-science/hackweeks
   #links:
    # - url: 'https://www.go-bgc.org/'
@@ -36,7 +34,9 @@ sponsors:
   - name: GO-BGC
     website: 'https://www.go-bgc.org/'
     logo_url: https://www.go-bgc.org/wp-content/uploads/2020/12/gobgc-logo-2-sm.png
-#    logo_url: https://escience.washington.edu/wp-content/uploads/2015/10/Logo_eScience-stacked.png
+  - name: eScience
+    website: 'https://escience.washington.edu'
+    logo_url: https://escience.washington.edu/wp-content/uploads/2015/10/Logo_eScience-stacked.png
 footer:
   social:
   - icon: github
