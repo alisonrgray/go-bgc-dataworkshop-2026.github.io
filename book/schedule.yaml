@@ -12,16 +12,16 @@ tabs:
     - Yui Takeshita
   - title: BGC-Argo Data
     description: Overview of data processing and quality control
-    time: 9:30 - 10:30
+    time: 9:30 - 10:15
     leads:
     - Logan Grady
     - Nicola Guisewaite
   - title: BREAK
     description: null
-    time: 10:30 - 11:00
+    time: 10:15 - 10:45
   - title: BGC-Argo Data Examples
     description: null
-    time: 11:00 - 11:30
+    time: 11:45 - 11:30
     leads:
     - Logan Grady
     - Nicola Guisewaite
@@ -43,14 +43,17 @@ tabs:
     description: null
     time: 14:30 - 16:00
   - title: RECEPTION and FLOAT LAB TOUR
-    description: Enjoy some light refreshments, learn about RBR and Seabird products, tour the UW Float Lab, and chat with fellow attendees and participants in the MATE Float Tech workshop in the lobby of the [Ocean Sciences Building] (https://map.uw.edu/?id=2099#!m/973250?share).
+    description: Enjoy some light refreshments, learn about RBR and Seabird products, tour the UW Float Lab, and chat with fellow attendees and participants in the MATE Float Tech workshop in the lobby of the [Ocean Sciences Building](https://map.uw.edu/?id=2099#!m/973250?share).
     time: 16:00 - 18:00
 - title: Day 2
   date: Tuesday 18 August
   contents:
+  - title: Group STAND-UP
+    description: null
+    time: 9:00 - 9:15
   - title: Machine Learning and BGC-Argo Data
     description: GOBAI-O2
-    time: 9:00 - 10:15
+    time: 9:15 - 10:15
     leads:
     - Jon Sharp
   - title: BREAK
@@ -74,9 +77,12 @@ tabs:
 - title: Day 3
   date: Wednesday 19 August
   contents:
+  - title: Group STAND-UP
+    description: null
+    time: 9:00 - 9:15
   - title: Remote Sensing and BGC-Argo Data
     description: null
-    time: 9:00 - 9:45
+    time: 9:15 - 10:15
     leads:
     - Charlotte
   - title: BREAK
@@ -87,9 +93,6 @@ tabs:
     time: 10:45 - 12:00
     leads:
     - Ellen Park
-  - title: Group STAND-UP & OPEN PROJECT WORK
-    description: null
-    time: 11:15 - 12:00
   - title: LUNCH
     description: null
     time: 12:00 - 13:30
@@ -99,11 +102,17 @@ tabs:
 - title: Day 4
   date: Thursday 20 August
   contents:
+  - title: Group STAND-UP
+    description: null
+    time: 9:00 - 9:15
   - title: CloudBank
     description: null
-    time: 9:00 - 9:30
+    time: 9:15 - 9:45
     leads:
-    - Scott Henderson  
+    - Scott Henderson
+  - title: OPEN PROJECT WORK
+    description: null
+    time: 9:45 - 10:15
   - title: BREAK
     description: null
     time: 10:15 - 10:45
