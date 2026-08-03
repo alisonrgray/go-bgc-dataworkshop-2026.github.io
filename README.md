@@ -3,6 +3,9 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
+## Resources
+If you are putting together a new tutorial for this event, refer to the [Hackweek Guidebook](https://guidebook.hackweek.io/training/tutorials/index.html).
+
 ## To Do
   * `CITATION.cff`:  add a standard citation file with all the event organizers
   * [ReviewNB](https://www.reviewnb.com/) is a great tool for viewing changes in Jupyter Notebooks.
