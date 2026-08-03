@@ -8,36 +8,24 @@
 
 ## Location
 
-* Tutorials and courses will occur in the Maple Hall Great Room.
-* Doors open at 8:30 am each morning (Monday-Friday). We will start the morning
-  sessions at 9:00 am sharp.
-* Due to space limitations, only registered SnowEx participants will be allowed
-  to attend the tutorials and open working sessions.
-* Participants are expected to attend all scheduled activities. Contact
-  {{ contact_email }} if any circumstances prevent you from attending.
+* Lectures and tutorials will occur in the Auditorium of the [Fishery Sciences Building](https://map.uw.edu/?id=2099#!m/973256?share).
+* Doors open at 8:00 am each morning (Monday-Friday). We will start the morning sessions at 8:30 am Monday and Friday and at 9:00 am Tuesday-Thursday.
+* Due to space limitations, only registered workshop participants will be allowed to attend the tutorials and open working sessions.
+* Participants are expected to attend all scheduled activities. Contact {{ contact_email }} if any circumstances prevent you from attending.
 
 ## Dorms
 
 * Dorms are all single/double rooms and each contain a private bathroom.
-* Participants who opt to will be staying at Willow Hall. Please Check in after
-  2pm at the front desk on Sunday, July 10th.
-* Check out is by 11am on Saturday, July 16th. There will be a room where you
-  can store your luggage if your flight leaves later that day. Please let us
-  know immediately by emailing {{ contact_email }} if you plan on
-  arriving/departing at an earlier/later date.
-* The front desk can direct you to the Maple Hall Great Room where the meetings
-  and courses will be taking place.
-* Dorm guests are able to use their key cards to access any gyms on campus. For
-  off-campus activities, guests have easy access to The Ave, which hosts a
-  number of restaurants, late-night activities and retail establishments.
+* Participants will be staying at Willow Hall. Please Check in after 2pm at the front desk on Sunday, August 16th.
+* Check out is by 11am on Saturday, July 16th. There will be a room where you an store your luggage if your flight leaves later that day. Please let us
+  know immediately by emailing {{ contact_email }} if you plan on arriving/departing at an earlier/later date.
+* Dorm guests are able to use their key cards to access any gyms on campus. For off-campus activities, guests have easy access to The Ave, which hosts a number of restaurants, late-night activities and retail establishments.
 * The dorms have coin-operated laundry facilities.
 
 ## Meals
 
-* Breakfast and lunch will be provided each day through the meal cards that will
-  be given to you when you check in to the dorms.
-* Your meal card is programmed with the prearranged All-You-Care-to-Eat meals,
-  which can be used at Local Point dining hall. Please note that this is the
+* Breakfast and dinner will be provided each day through the meal cards that will be given to you when you check in to the dorms.
+* Your meal card is programmed with the prearranged All-You-Care-to-Eat meals, which can be used at Local Point dining hall. Please note that this is the
   only dining location on campus that the card will work for.
 * Breakfast is available in the Local Point dining facility from 7:30am – 10am
   and lunch is available from 11am – 2:30pm.
@@ -47,8 +35,7 @@
 
 ## Travel
 
-* Seattle-Tacoma International Airport offers a range of connections to the
-  University of Washington Campus.
+* Seattle-Tacoma International Airport offers a range of connections to the University of Washington Campus.
 * The Link light rail is an easy, great way to get to the UW campus from the
   airport. It picks you up at the airport, comes about every 5-15 minutes, and
   drops you off right on the UW campus; just a 15-minute walk from the dorms you
