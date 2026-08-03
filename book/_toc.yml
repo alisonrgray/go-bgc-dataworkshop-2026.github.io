@@ -20,8 +20,8 @@ parts:
   chapters:
     - file: tutorials/index
       sections:
-        - file: tutorials/machine-learning/readme.md
-        - file: tutorials/remote-sensing/readme.md
+        - file: tutorials/machine-learning/readme
+        - file: tutorials/remote-sensing/readme
 - caption: Projects
   chapters:
     - file: projects/index
