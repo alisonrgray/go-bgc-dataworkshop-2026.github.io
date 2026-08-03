@@ -18,7 +18,7 @@ parse:
     jupyterhub_url: "https://INSERT_JUPYTERHUB_URL"
     slack_workspace_url: "https://INSERT_SLACK_URL"
     contact_email: "argray@uw.com"
-    dataset: "INSERT_DATA_SET_NAME"
+    dataset: "BGC Argo Data"
     anon_reporting_url: "https://INSERT_FORM_LINK"
     project_spreadsheet_url: "https://INSERT_GOOGLE_SHEET"
   myst_enable_extensions:
