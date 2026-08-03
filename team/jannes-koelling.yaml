@@ -1,4 +1,4 @@
-- title: Your name goes here
+- title: Jannes Koelling
   avatar: A URL with your picture
   role: Your title
   organizations:
@@ -16,4 +16,4 @@
     - icon: linkedin
       link: Link to your LinkedIn profile
   user_groups:
-    - The role in the hackweek. Examples: Tutorial Lead, Project Helper
+    - Workshop Organizer
