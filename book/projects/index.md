@@ -8,6 +8,7 @@ During this workshop we invite participants to collaborate in small group projec
 :width: 700px
 :align: center
 ```
+A comprehensive guide for organizing projects before, during, and after a hackweek can be found in the [Hackweek Guidebook](https://guidebook.hackweek.io/training/projects/index.html).
 
 ## List of Projects
 
