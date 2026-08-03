@@ -4,5 +4,5 @@ Hackweek tutorials are learning-oriented and guide participants through a step-w
 
 | Tutorial | Topics | Datasets |
 | -  | - | - |  
-| [Machine Learning] | Machine Learning | ? | 
+| [Machine Learning](./machine-learning/argo_regression_modeling.ipynb) | Machine Learning | ? | 
 | [Remote Sensing] | Remote Sensing | ? |
