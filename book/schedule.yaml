@@ -9,6 +9,7 @@ tabs:
     leads:
     - Alison Gray
     - David (Roo) Nicholson
+    - Yui Takeshita
   - title: BGC-Argo Data
     description: Data QC and processing
     time: 9:30 - 10:15
@@ -20,6 +21,8 @@ tabs:
   - title: Working Together
     description: Getting connected to our shared computational resources.
     time: 11:15 - 12:00
+    leads: 
+    - Wing-Ho Ko
   - title: LUNCH
     description: null
     time: 12:00 - 13:30
@@ -28,7 +31,10 @@ tabs:
     time: 13:00 - 14:30
   - title: OPEN PROJECT WORK
     description: null
-    time: 14:30 - 16:00  
+    time: 14:30 - 16:00
+  - title: RECEPTION and FLOAT LAB TOURS
+    description: null
+    time: 16:00 - 18:00
 - title: Day 2
   date: Tuesday 18 August
   contents:
@@ -44,13 +50,17 @@ tabs:
     description: null
     time: 10:45 - 12:00
     leads:
-    - Alison Gray, Song Sangmin
+    - Alison Gray
+    - Song Sangmin
   - title: LUNCH
     description: null
     time: 12:00 - 13:30
   - title: OPEN PROJECT WORK
     description: null
     time: 13:30 - 17:00
+  - title: Soccer
+    description: Optional
+    time: 19:00–20:30
 - title: Day 3
   date: Wednesday 19 August
   contents:
@@ -102,5 +112,3 @@ tabs:
   - title: Team Presentations
     description: null
     time: 8:30 - 12:30
-    leads:
-    - ''
