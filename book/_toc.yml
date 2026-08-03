@@ -7,7 +7,7 @@ parts:
   chapters:
     - file: logistics
     - title: Schedule
-      url: https://go-bgc.github.io/go-bgc-dataworkshop-2026.github.io/ndex.html?jump_to=schedule
+      url: https://go-bgc.github.io/go-bgc-dataworkshop-2026.github.io/index.html?jump_to=schedule
     - title: Team
       url: https://go-bgc.github.io/go-bgc-dataworkshop-2026.github.io/index.html?jump_to=team
     - file: CoC
