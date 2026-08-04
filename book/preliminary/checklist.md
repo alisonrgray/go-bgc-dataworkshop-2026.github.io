@@ -30,7 +30,7 @@ All of our communication throughout the hackweek will be done using the {{ '[`{h
 
 ### GitHub Account
 
-Everyone attending {{ hackweek }} will require obtaining a GitHub account. Visit [the GitHub help pages](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github) if you are in need for an account!
+Everyone attending {{ hackweek }} will require a GitHub account. Visit [the GitHub help pages](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github) if you are in need of an account.  Please Add your GitHub User ID to [this spreadsheet](https://docs.google.com/spreadsheets/d/1Nau-xnv5VGGGgYlCa8nRhzOUCeZgxFqgaDNZfspp2Ls/edit?usp=sharing).
 
 (accessing-jupyterhub)=
 ### JupyterHub
