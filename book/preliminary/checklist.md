@@ -11,10 +11,6 @@ __Upon completion you__:
   <label for="a1">Joined the Slack workspace</label>
 </div>
 <div>
-  <input type="checkbox" name="a2">
-  <label for="a2">Created a EarthData Login</label>
-</div>
-<div>
   <input type="checkbox" name="a3">
   <label for="a3">Created a GitHub account</label>
 </div>
@@ -30,35 +26,15 @@ __Upon completion you__:
 
 ### Slack Account
 
-All of our communication throughout the hackweek will be done using the
-{{ '[`{hackweek}` Slack workspace]({url})'.format(hackweek=hackweek, url=slack_workspace_url)}}.
-With your invite to the hackweek, you should also have received a separate
-email to join the Slack workspace. Upon accepting the invite, please take a moment to
-[complete your Slack profile](https://slack.com/help/articles/204092246-Edit-your-profile).
-Having your name and picture with your Slack account helps us and your peers
-to identify you on Slack and builds a more personal community throughout
-the week.
-
-### EarthData Login
-
-We'll have you download some data from NSIDC for your tutorials and projects.
-Visit the [Earthdata](https://www.earthdata.nasa.gov/eosdis/science-system-description/eosdis-components/earthdata-login)
-help page and learn how to register, access, and login if you don't already have
-an account!
+All of our communication throughout the hackweek will be done using the {{ '[`{hackweek}` Slack workspace]({url})'.format(hackweek=hackweek, url=slack_workspace_url)}}. You should have received a link to join the Slack workspace by email. Upon accepting the invite, please take a moment to [complete your Slack profile](https://slack.com/help/articles/204092246-Edit-your-profile). Having your name and picture with your Slack account helps us and your peers to identify you on Slack and builds a more personal community throughout the week.
 
 ### GitHub Account
 
-Everyone attending {{ hackweek }} will require obtaining a GitHub account.
-Visit [the GitHub help pages](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github)
-if you are in need for an account!
+Everyone attending {{ hackweek }} will require obtaining a GitHub account. Visit [the GitHub help pages](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github) if you are in need for an account!
 
 (accessing-jupyterhub)=
 ### JupyterHub
 
-We will offer all tutorials based on a JupyterHub environment. Please visit the
-[Project Pythia Foundation Skills](https://foundations.projectpythia.org/foundations/getting-started-jupyter.html)
-to learn more about the components of project Jupyter.
+We will offer all tutorials based on a JupyterHub environment. Please visit the [Project Pythia Foundation Skills](https://foundations.projectpythia.org/foundations/getting-started-jupyter.html) to learn more about the components of project Jupyter.
 
-  All content of the hackweek will be shared via GitHub and interacting with the
-  website will be done via the `git` command. See our {ref}`setting-up-git`
-  to configure your access.
+All content of the hackweek will be shared via GitHub and interacting with the website will be done via the `git` command. See our {ref}`setting-up-git` to configure your access.
