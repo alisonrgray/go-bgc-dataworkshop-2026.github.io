@@ -59,15 +59,6 @@ We will offer all tutorials based on a JupyterHub environment. Please visit the
 [Project Pythia Foundation Skills](https://foundations.projectpythia.org/foundations/getting-started-jupyter.html)
 to learn more about the components of project Jupyter.
 
-Specifically for the event, we will be using [CryoCloud](https://book.cryointhecloud.com/intro.html).
-To get started, please see the [onboarding instructions](https://book.cryointhecloud.com/content/Getting_Started.html)
-to gain access.
-
-Optional setup after you are logged in CryoCloud:
-* Earthdata authentication to automate data downloads:
-  [Configure a netrc file](https://wiki.earthdata.nasa.gov/display/EL/How+To+Access+Data+With+cURL+And+Wget)
-* Git authentication:
-
   All content of the hackweek will be shared via GitHub and interacting with the
   website will be done via the `git` command. See our {ref}`setting-up-git`
   to configure your access.
