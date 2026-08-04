@@ -15,12 +15,12 @@ parse:
     github_org_url: "https://github.com/go-bgc"
     book_repo: "go-bgc-dataworkshop-2026"
     website_url: "https://go-bgc-dataworkshop-2026.github.io"
-    jupyterhub_url: "https://uw-escience.2i2c.cloud/"
-    slack_workspace_url: "https://INSERT_SLACK_URL"
+    jupyterhub_url: "https://uw-escience.2i2c.cloud"
+    slack_workspace_url: "https://2026-gobgc-workshop.slack.com"
     contact_email: "jaqui@uw.com"
     dataset: "BGC Argo Data"
     anon_reporting_url: "https://INSERT_FORM_LINK"
-    project_spreadsheet_url: "https://INSERT_GOOGLE_SHEET"
+    project_spreadsheet_url: "https://docs.google.com/spreadsheets/d/1bgctycmRuaBigeSFLttWlI0P4k74UjsB0a1AMDJ4VGA/edit?usp=sharing"
   myst_enable_extensions:
     # Defaults
     - dollarmath
