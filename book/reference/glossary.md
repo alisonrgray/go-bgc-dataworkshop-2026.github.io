@@ -70,12 +70,11 @@
 
 ```
 
-## Topical (event specific)
+## Topical 
 ```{glossary}
-[ICESat-2](https://icesat-2.gsfc.nasa.gov)
-  Ice, Cloud, and land Elevation Satellite (2).
-  Launched in September 2018, the ICESat-2 satellite continues the ICESat and IceBridge missions to
-  collect multi-year elevation data.
-  Mission science goals focus on assessing changing land and sea ice and forest heights.
+[Biogeochemical Argo](https://biogeochemical-argo.org/index.php)
+  A component of the International Argo program.
 
+[GO-BGC](https://www.go-bgc.org/)
+  An NSF-funded project to deploy Biogeochemical Argo floats throughout the global ocean.  
   ```
