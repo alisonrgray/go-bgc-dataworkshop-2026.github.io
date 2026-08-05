@@ -17,7 +17,8 @@
 ## Dorms
 
 * Dorms are all single occupancy rooms with a private bathroom.
-* Participants will be staying at [Alder Hall](https://hfs.uw.edu/conference-services/conference-accommodations/alder-hall/). Please check in at the front desk of [Lander Hall](https://hfs.uw.edu/conference-services/conference-accommodations/lander-hall/) (next door to Alder Hall) after 2 pm on Sunday, August 16th.  If you arrive after XX pm, please call TBA to check in.
+* Participants will be staying at [Alder Hall](https://hfs.uw.edu/conference-services/conference-accommodations/alder-hall/). Please check in at the [Lander Hall](https://hfs.uw.edu/conference-services/conference-accommodations/lander-hall/) Conference Desk (next door to Alder Hall) after 2 pm on Sunday, August 16th.
+* The Lander Hall conference desk is open until 10 pm.  If you expect to arrive after 10 pm for check-in, please call the Lander Hall Conference Desk (206-543-0235) during business hours to arrange for a late check-in.  If you arrive for check-in and the Lander Hall Conference Desk has already closed, call the Resident Conference Assistant (RCA) on-call at 206-543-1000, follow the prompts, and indicate that you are checking in on west campus.
 * Check out is by 11 am on your scheduled departure date (either Friday, August 21st or Saturday, August 22nd, as previously arranged). There will be a room where you can store your luggage until you depart campus. Please let us know immediately by emailing {{ contact_email }} if your plans change.
 * The dorms have coin-operated laundry facilities.
 * Dorm guests are able to use their key cards to access the [Fitness Center](https://hfs.uw.edu/experience/perks-recreation/fitness-center-west/).
@@ -27,8 +28,8 @@
 
 * For all participants, lunch will be provided each day in the lobby of the Fishery Science Building.
 * For participants who are staying in the dorms, breakfast and dinner will be provided each day through the meal cards that will be given to you when you check in.
-* Your meal card is programmed with the prearranged All-You-Care-to-Eat meals, which can be used at [Local Point](https://hfs.uw.edu/eat/locations-and-hours/local-point/) dining hall. 
-* Breakfast is available in the Local Point dining facility Monday-Friday from 7 am – 9:30 am and dinner is available from 4:30 pm – 8 pm.  Note that Local Point is closed Saturday-Sunday.
+* The meal card includes $201.75 in dining dollars, which may be used for All-You-Care-To-Eat (AYCE) breakfast (Monday–Friday) and AYCE dinner (Sunday–Thursday) at [Local Point](https://hfs.uw.edu/eat/locations-and-hours/local-point/) or [Center Table](https://hfs.uw.edu/eat/locations-and-hours/center-table/) dining halls. You may also use your dining dollars at District Market and Husky Grind Cafe [locations](https://hfs.uw.edu/eat/locations-and-hours/) throughout your stay.
+* At the Local Point dining facility, breakfast is available Monday-Friday from 7 am – 9:30 am and dinner is available from 4:30 pm – 8 pm. Note that Local Point is closed Saturday-Sunday.
 
 ## Travel
 
