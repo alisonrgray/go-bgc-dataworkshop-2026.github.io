@@ -1,19 +1,20 @@
 - title: Guillaume Liniger
   avatar: A URL with your picture
-  role: Your title
+  role: Postdoc Fellow
   organizations:
     - name: Monterey Bay Aquarium Research Institute
   bio: A short bio about yourself.
     You can have multiple lines. Just watch that you have two leading spaces at the beginning.
   expertise:
-    - skill 1
-    - skill 2
+    - Data Analysis
+    - BGC-Argo Floats
+    - Southern Ocean
   social:
     - icon: github
       link: Link to your GitHub profile
     - icon: twitter
       link: Link to your Twitter profile
     - icon: linkedin
-      link: Link to your LinkedIn profile
+      link: https://www.linkedin.com/in/guillaume-liniger-858507a1/
   user_groups:
     - Workshop Organizer
