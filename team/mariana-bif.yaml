@@ -1,19 +1,16 @@
 - title: Mariana Bif
-  avatar: A URL with your picture
-  role: Your title
+  avatar: https://people.miami.edu/_assets-profiles/acad-rsms/images/mariane-bif-240x320.jpg
+  role: Assistant Professor
   organizations:
-    - name: Your institution
+    - name: University of Miami
   bio: A short bio about yourself.
     You can have multiple lines. Just watch that you have two leading spaces at the beginning.
   expertise:
-    - skill 1
-    - skill 2
+    - Carbon and nitrogen cycles
+    - BGC-Argo floats
+    - Dissolved organic carbon and nitrogen
   social:
-    - icon: github
-      link: Link to your GitHub profile
-    - icon: twitter
-      link: Link to your Twitter profile
     - icon: linkedin
-      link: Link to your LinkedIn profile
+      link: https://www.linkedin.com/in/mariana-bif-492208122/
   user_groups:
     - Workshop Organizer
