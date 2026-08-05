@@ -1,5 +1,5 @@
 - title: Guillaume Liniger
-  avatar: A URL with your picture
+  avatar: https://www.mbari.org/wp-content/uploads/Liniger_Guillaum_cropped.jpg
   role: Postdoc Fellow
   organizations:
     - name: Monterey Bay Aquarium Research Institute
@@ -11,6 +11,8 @@
     - BGC-Argo Floats
     - Southern Ocean
   social:
+    - icon: researchgate
+      link: https://www.researchgate.net/profile/Guillaume-Liniger 
     - icon: github
       link: https://github.com/GhomL/
     - icon: linkedin
