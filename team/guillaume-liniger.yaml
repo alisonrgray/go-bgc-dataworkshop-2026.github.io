@@ -3,8 +3,7 @@
   role: Postdoc Fellow
   organizations:
     - name: Monterey Bay Aquarium Research Institute
-  bio: A short bio about yourself.
-    Guillaume Liniger is a polar oceanographer and a Southern Ocean Carbon Climate Observations and Modeling (SOCCOM) research associate fellow at MBARI. 
+  bio:  Guillaume Liniger is a polar oceanographer and a Southern Ocean Carbon Climate Observations and Modeling (SOCCOM) research associate fellow at MBARI. 
     Using robotic floats, satellites, model outputs, and artificial intelligence, he investigates how physical and biological processes interact to shape Southern Ocean ecosystems. 
     At MBARI, his research focuses on developing new tools to explore and monitor changes in polar ecosystems in near real-time.
   expertise:
@@ -14,8 +13,6 @@
   social:
     - icon: github
       link: https://github.com/GhomL/
-    - icon: twitter
-      link: Link to your Twitter profile
     - icon: linkedin
       link: https://www.linkedin.com/in/guillaume-liniger-858507a1/
   user_groups:
