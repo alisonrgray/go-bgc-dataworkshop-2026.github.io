@@ -115,14 +115,14 @@ of your mouse is accessible on the JupyterHub by using the 'Shift' key.
 ```
 
 ```shell
-Cloning into '2026-sample_project_repository'...
+Cloning into 'sample_project_repository-2026'...
 Username for 'https://github.com': <GitHub Username>
 Password for 'https://attendee@github.com':
-remote: Enumerating objects: 3, done.
-remote: Counting objects: 100% (3/3), done.
-remote: Compressing objects: 100% (2/2), done.
-remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
-Unpacking objects: 100% (3/3), done.
+remote: Enumerating objects: 13, done.
+remote: Counting objects: 100% (13/13), done.
+remote: Compressing objects: 100% (9/9), done.
+remote: Total 13 (delta 0), reused 10 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (13/13), done.
 ```
 
 Now that you have entered your credentials once, you should no longer be prompted
