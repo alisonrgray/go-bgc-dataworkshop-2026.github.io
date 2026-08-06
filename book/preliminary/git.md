@@ -172,7 +172,8 @@ The minimum required scopes are 'repo', 'read:org', 'workflow'.
 - gh config set -h github.com git_protocol https
 ✓ Configured git protocol
 ✓ Logged in as {{hackweek}}Hackweek
--->```
+```
+-->
 
 ## Installing `git` on your local computer
 
