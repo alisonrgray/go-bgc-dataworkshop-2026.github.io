@@ -151,6 +151,7 @@ recoverable.
 rm -rf sample_project_repository-2026
 ```
 
+<!--
 #### (Optional) Advanced GitHub setup
 In addition to interacting with GitHub via the `git` command, you can also use
 the `gh` command, which is a set of [command line tools developed by GitHub to
@@ -171,7 +172,7 @@ The minimum required scopes are 'repo', 'read:org', 'workflow'.
 - gh config set -h github.com git_protocol https
 ✓ Configured git protocol
 ✓ Logged in as {{hackweek}}Hackweek
-```
+-->```
 
 ## Installing `git` on your local computer
 
