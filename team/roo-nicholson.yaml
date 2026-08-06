@@ -3,8 +3,8 @@
   role: Associate Scientist
   organizations:
     - name: Woods Hole Oceanographic Institution
-  bio: A short bio about yourself.
-    David (Roo) Nicholson's research has the broad goal of understanding global biogeochemical cycles in the context of a changing climate. His research uses observations from autonomous platforms and numerical models of varying complexity. 
+  bio: David (Roo) Nicholson's research has the broad goal of understanding global biogeochemical cycles in the context of a changing climate. 
+    His research uses observations from autonomous platforms and numerical models of varying complexity. 
   expertise:
     - Biogeochemistry from floats and gliders
     - Numerical modeling and machine learning
@@ -13,4 +13,4 @@
     - icon: github
       link: https://github.com/boom-lab
   user_groups:
-    - Workshop Organizer
+    - Organizer
