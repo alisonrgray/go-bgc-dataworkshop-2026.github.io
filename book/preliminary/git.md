@@ -6,13 +6,13 @@
 many open source software projects to manage their software code base.
 
 ```{note}
-You are not required to know Git in advance of this event, but come prepared to learn a lot about it!
+You are not required to know Git in advance of this event, but come prepared to learn about it!
 [Here a quick introduction video from the official website](https://git-scm.com/video/what-is-git)
 ```
 (setting-up-git)=
 ## Setting up on JupyterHub
 
-Below are instructions to get you setup with `git` on the {{hackweek}} hackweek
+Below are instructions to get you setup with `git` on the {{hackweek}} 
 JupyterHub. These are only basic instructions to get started. See the
 [Software Carpentry Git](https://swcarpentry.github.io/git-novice/index.html)
 instructions for a more thorough explanation and background information.
@@ -63,6 +63,7 @@ The output should look similar to this:
 jovyan@jupyter:~$ git config -l
 user.name=Attendee Name
 user.email=attendee@hackweek.com
+pull.rebase=false
 credential.helper=store
 ```
 
@@ -83,15 +84,15 @@ Screenshot from github.com setting up the token:
 Once you have created your token, be sure to save it on your computer in case
 you need to re-authenticate again. The token will give you access to your
 personal GitHub account. It will also give you permission to push changes to your project repository within
-the {{hackweek}} hackweek organization via the command line.
+the {{hackweek}} organization via the command line.
 
 To test your setup on the JupyterHub, we will be using a test repository from
-the {{hackweek}} Hackweek organization. Paste the following command into your open
-terminal on the JupyterHub. where you will be prompted for your GitHub username
+the {{hackweek}} organization. Paste the following command into your open
+terminal on the JupyterHub, where you will be prompted for your GitHub username
 and the token.
 
 ```shell
-    git clone {{ github_org_url }}/github_setup_check.git
+    git clone {{ github_org_url }}/go-bgc-dataworkshop-2026-sample_project_repository
 ```
 
 Since this is the first time you are interacting from the JupyterHub with GitHub,
@@ -114,7 +115,7 @@ of your mouse is accessible on the JupyterHub by using the 'Shift' key.
 ```
 
 ```shell
-Cloning into 'github_setup_check'...
+Cloning into 'go-bgc-dataworkshop-2026-sample_project_repository'...
 Username for 'https://github.com': <GitHub Username>
 Password for 'https://attendee@github.com':
 remote: Enumerating objects: 3, done.
@@ -131,9 +132,9 @@ successful, you should have an output similar to this:
 
 ```shell
 # Go inside the directory
-(notebook) jovyan@jupyter:~$ cd github_setup_check/
+(notebook) jovyan@jupyter:~$ cd go-bgc-dataworkshop-2026-sample_project_repository/
 # Issue the pull command
-(notebook) jovyan@jupyter:~/github_setup_check$ git pull
+(notebook) jovyan@jupyter:~/go-bgc-dataworkshop-2026-sample_project_repository$ git pull
 Already up to date.
 ```
 
@@ -147,7 +148,7 @@ recoverable.
 ```
 
 ```shell
-rm -rf github_setup_check
+rm -rf go-bgc-dataworkshop-2026-sample_project_repository
 ```
 
 #### (Optional) Advanced GitHub setup
