@@ -92,7 +92,7 @@ terminal on the JupyterHub, where you will be prompted for your GitHub username
 and the token.
 
 ```shell
-    git clone {{github_org_url}}/go-bgc-dataworkshop-2026-sample_project_repository
+    git clone https://github.com/go-bgc/sample_project_repository-2026
 ```
 
 Since this is the first time you are interacting from the JupyterHub with GitHub,
@@ -115,7 +115,7 @@ of your mouse is accessible on the JupyterHub by using the 'Shift' key.
 ```
 
 ```shell
-Cloning into 'go-bgc-dataworkshop-2026-sample_project_repository'...
+Cloning into '2026-sample_project_repository'...
 Username for 'https://github.com': <GitHub Username>
 Password for 'https://attendee@github.com':
 remote: Enumerating objects: 3, done.
@@ -132,9 +132,9 @@ successful, you should have an output similar to this:
 
 ```shell
 # Go inside the directory
-(notebook) jovyan@jupyter:~$ cd go-bgc-dataworkshop-2026-sample_project_repository/
+(notebook) jovyan@jupyter:~$ cd sample_project_repository-2026/
 # Issue the pull command
-(notebook) jovyan@jupyter:~/go-bgc-dataworkshop-2026-sample_project_repository$ git pull
+(notebook) jovyan@jupyter:~/sample_project_repository-2026$ git pull
 Already up to date.
 ```
 
@@ -148,7 +148,7 @@ recoverable.
 ```
 
 ```shell
-rm -rf go-bgc-dataworkshop-2026-sample_project_repository
+rm -rf sample_project_repository-2026
 ```
 
 #### (Optional) Advanced GitHub setup
