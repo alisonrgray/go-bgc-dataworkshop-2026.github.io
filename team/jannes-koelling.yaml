@@ -2,18 +2,18 @@
   avatar: https://jkoell.github.io/assets/images/jannes_headshot.jpeg
   role: Researcher
   organizations:
+    - name: School of Oceanography
     - name: University of Washington
-  bio: A short bio about yourself.
-    I am a researcher in the University of Washington's float lab studying ocean ventilation in the North Atlantic and Southern Ocean
+  bio: I am a researcher in the University of Washington's float lab studying ocean ventilation in the North Atlantic and Southern Ocean
   expertise:
     - Physical-biogeochemical coupling
     - Oxygen sensors
   social:
     - icon: github
       link: https://github.com/jkoell
-    - icon: twitter
+    - icon: bluesky
       link: https://bsky.app/profile/koelling.bsky.social
     - icon: linkedin
       link: https://www.linkedin.com/in/jannes-koelling/
   user_groups:
-    - Workshop Organizer
+    - Organizer
