@@ -5,7 +5,7 @@
     - name: Cooperative Institute for Climate, Ocean, and Ecosystem Studies (CICOES)
     - name: University of Washington
   bio: Jon is an oceanographer who investigates changes to global ocean chemistry and biogeochemical processes using observations from the global array of biogeochemical Argo profiling floats, large-scale research cruises, fixed ocean moorings, and other observational platforms.
-  He is particularly interested in ocean carbon uptake, acidification, and deoxygenation, as well as the application of machine learning techniques to create useful data products from ocean observations.
+    He is particularly interested in ocean carbon uptake, acidification, and deoxygenation, as well as the application of machine learning techniques to create useful data products from ocean observations.
   expertise:
     - Ocean Carbon and Oxygen
     - BGC Argo Floats
