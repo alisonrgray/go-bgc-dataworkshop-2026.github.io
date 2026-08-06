@@ -92,7 +92,7 @@ terminal on the JupyterHub, where you will be prompted for your GitHub username
 and the token.
 
 ```shell
-    git clone {{ github_org_url }}/go-bgc-dataworkshop-2026-sample_project_repository
+    git clone {{github_org_url}}/go-bgc-dataworkshop-2026-sample_project_repository
 ```
 
 Since this is the first time you are interacting from the JupyterHub with GitHub,
