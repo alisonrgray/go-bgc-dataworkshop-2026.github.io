@@ -1,15 +1,16 @@
 - title: David (Roo) Nicholson
   avatar: https://avatars.githubusercontent.com/u/1872594?v=4
-  role: Your title
+  role: Associate Scientist
   organizations:
-    - name: Your institution
+    - name: Woods Hole Oceanographic Institution
   bio: A short bio about yourself.
-    You can have multiple lines. Just watch that you have two leading spaces at the beginning.
+    David (Roo) Nicholson's research has the broad goal of understanding global biogeochemical cycles in the context of a changing climate. His research uses observations from autonomous platforms and numerical models of varying complexity. 
   expertise:
-    - skill 1
-    - skill 2
+    - Biogeochemistry from floats and gliders
+    - Numerical modeling and machine learning
+    - Sensor development 
   social:
     - icon: github
-      link: https://github.com/dnicholson
+      link: https://github.com/boom-lab
   user_groups:
     - Workshop Organizer
