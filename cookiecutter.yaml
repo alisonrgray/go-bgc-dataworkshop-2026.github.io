@@ -37,6 +37,9 @@ sponsors:
   - name: eScience
     website: 'https://escience.washington.edu'
     logo_url: https://escience.washington.edu/wp-content/uploads/2015/10/Logo_eScience-stacked.png
+  - name: NSF
+    website: 'https://www.nsf.gov/'
+    logo_url: https://www.nsf.gov/themes/custom/nsf_theme/components/molecules/logo/logo-desktop.png
 footer:
   social:
   - icon: github
