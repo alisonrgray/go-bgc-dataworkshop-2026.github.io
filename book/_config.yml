@@ -4,6 +4,7 @@
 title: GO-BGC Data and Science Workshop
 author: GO-BGC Team
 logo: logo.png
+favicon: favicon.png
 only_build_toc_files: true
 
 parse:
